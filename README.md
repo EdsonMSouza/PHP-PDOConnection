@@ -1,5 +1,4 @@
 # PHP-PDOConnection
-## PHP Version 7.0
 Example of usage PHP PDO library with a simple CRUD implementation
 
 ```html
@@ -16,19 +15,19 @@ If you want, collaborate in this repository any improvements that have been made
 ### How to cite this content
 
 ```
-De Souza, Edson Melo (2021, March 13). Simple PHP API v.1.0.
-Available in: https://github.com/EdsonMSouza/simple-php-api
+De Souza, Edson Melo (2021, June 13). PHP-PDOConnection.
+Available in: https://github.com/EdsonMSouza/PHP-PDOConnection
 ```
 
 Or BibTeX for LaTeX:
 
 ```latex
-@misc{desouza2020phpapi,
+@misc{desouza2021phppdoconnection,
   author = {De Souza, Edson Melo},
   title = {PHP-PDOConnection Library Example},
   url = {https://github.com/EdsonMSouza/PHP-PDOConnection},
-  year = {2020},
-  month = {March}
+  year = {2021},
+  month = {June}
 }
 ```
 
