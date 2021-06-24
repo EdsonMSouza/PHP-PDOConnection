@@ -37,7 +37,7 @@ class PDOConnection
             self::$db->exec("SET NAMES utf8");
             
         } catch (PDOException $e) {
-            die($e->getMessage());
+            throw $e;
         }
     }
 
